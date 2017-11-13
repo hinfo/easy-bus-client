@@ -19,7 +19,7 @@ public class Principal extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
         String url = "http://easy-bus.herokuapp.com";
-
+       //testgit
         new Acessa().execute(url);
     }
 
