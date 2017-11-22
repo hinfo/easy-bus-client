@@ -14,26 +14,99 @@
         android:text="Projeto Easy Bus"
         android:textAlignment="center"
         android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:onClick="showHorarios"
+            android:text="Horários" />
+
+        <Button
+            android:layout_width="127dp"
+            android:layout_height="wrap_content"
+            android:onClick="showItinerarios"
+            android:text="Itinerários" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="showEmpresas"
+            android:text="Empresas" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecione a Linha"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spLinhas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/linhas"
+        android:prompt="@string/tituloSpinner"
+        android:spinnerMode="dialog"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escolha a direção"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spDirecao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/direcao"
+        android:prompt="@string/tituloSpinner"
+        android:spinnerMode="dialog" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escolha o período"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spPeriodo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/periodo"
+        android:prompt="@string/tituloSpinner"
+        android:spinnerMode="dialog"
+        />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        >
-        <Button
-            android:layout_width="129dp"
-            android:layout_height="wrap_content"
-            android:text="Horários"/>
-        <Button
-            android:layout_width="127dp"
-            android:layout_height="wrap_content"
-            android:text="Linhas"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Empresas"/>
+        android:paddingTop="50dp"
+        android:weightSum="1">
 
+        <Button
+            android:id="@+id/button"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="Cancelar"
+            android:layout_weight="0.5" />
 
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="OK"
+            android:layout_weight="0.5"
+            android:onClick="showResultClick"/>
     </LinearLayout>
+
 
 
 </LinearLayout>

@@ -1,8 +1,12 @@
 package unifra.edu.mobile.easybus;
 
+import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Spinner;
+import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,21 +18,39 @@ import java.net.URL;
 
 public class Principal extends AppCompatActivity {
 
+    String resposta = "";
+    String linha = "";
+    String direcao = "";
+    String periodo = "" ;
+    Intent telaHorarios, telaEmpresas, telaItinerarios, telaResult;
+    Spinner spLinhas, spDirecao, spPeriodo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
+
         String url = "http://easy-bus.herokuapp.com";
-       //testgit
+        //testgit
         new Acessa().execute(url);
+
+        spLinhas = (Spinner) findViewById(R.id.spLinhas);
+        spDirecao = (Spinner) findViewById(R.id.spDirecao);
+        spPeriodo = (Spinner) findViewById(R.id.spPeriodo);
+
+        telaHorarios = new Intent(this, Horarios.class);
+        telaEmpresas = new Intent(this, Empresas.class);
+        telaItinerarios = new Intent(this, Itinerarios.class);
+        telaResult = new Intent(this, Result.class);
+
+
     }
 
 
-    public class Acessa extends AsyncTask<String, String,String> {
+    public class Acessa extends AsyncTask<String, String, String> {
 
         @Override
         protected String doInBackground(String... params) {
-            String resposta = "";
             HttpURLConnection urlConnection = null;
             BufferedReader br = null;
 
@@ -53,7 +75,7 @@ public class Principal extends AppCompatActivity {
                 resposta = "Erro ao acessar a URL";
             } catch (IOException e) {
                 e.printStackTrace();
-                resposta = "Não foi possível receber os dados";
+                resposta = "Não foi possível receber os dados\nSem Conexão com a internet";
             } finally {
                 urlConnection.disconnect();
             }
@@ -63,8 +85,9 @@ public class Principal extends AppCompatActivity {
         }
 
         @Override
-        protected void onPostExecute(String ip) {
-            super.onPostExecute(ip);
+        protected void onPostExecute(String resposta) {
+            super.onPostExecute(resposta);
+            Toast.makeText(Principal.this, resposta, Toast.LENGTH_LONG).show();
 //            textView.setText(ip.toString());
         }
     }
@@ -72,9 +95,29 @@ public class Principal extends AppCompatActivity {
     public void checkVersion() throws MalformedURLException {
         String url = "https://easy-bus.herokuapp.com/";
         new Acessa().execute(url);
-
     }
 
+    public void showResultClick(View v){
+        linha =  (String) spLinhas.getSelectedItem();
+        direcao = (String) spDirecao.getSelectedItem();
+        periodo = (String) spPeriodo.getSelectedItem();
+        telaResult.putExtra("linha", linha);
+        telaResult.putExtra("direcao", direcao);
+        telaResult.putExtra("periodo", periodo);
+        startActivity(telaResult);
+    }
+
+    public void showHorarios(View v){
+        startActivity(telaHorarios);
+    }
+
+    public void showEmpresas(View v){
+        startActivity(telaEmpresas);
+    }
+
+    public void showItinerarios(View v){
+        startActivity(telaItinerarios);
+    }
 
 
 }

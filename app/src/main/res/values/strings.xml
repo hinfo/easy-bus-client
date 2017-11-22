@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EasyBus</string>
+    <string name="tituloSpinner">Escolha uma das opções</string>
 </resources>
