@@ -8,21 +8,26 @@
 
     <TableLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent"
+        android:stretchColumns="*"
+        >
 
 
         <TableRow
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:textAlignment="center">
+            android:background="@color/bcgColor2Primary">
 
+            <TextView
+                android:layout_span="3"
+                android:padding="5dip"
+                android:text="Horários"
+                android:textSize="40sp"
+                android:textColor="@color/bcgColor2Dark"
+                android:layout_gravity="center"
+                />
         </TableRow>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="Horários"
-            android:textSize="30sp"
-            android:layout_gravity="center"/>
+
 
     </TableLayout>
 

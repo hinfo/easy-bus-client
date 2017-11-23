@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EasyBus.iml" filepath="$PROJECT_DIR$/EasyBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-bus-client.iml" filepath="$PROJECT_DIR$/easy-bus-client.iml" />
     </modules>
   </component>
 </project>
