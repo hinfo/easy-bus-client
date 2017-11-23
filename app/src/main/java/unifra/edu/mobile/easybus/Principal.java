@@ -1,6 +1,8 @@
 package unifra.edu.mobile.easybus;
 
+import android.content.Context;
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -24,11 +26,15 @@ public class Principal extends AppCompatActivity {
     String periodo = "" ;
     Intent telaHorarios, telaEmpresas, telaItinerarios, telaResult;
     Spinner spLinhas, spDirecao, spPeriodo;
+    SQLiteDatabase db;
+    String BANCO = "onibus.db";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
+
+
 
         String url = "http://easy-bus.herokuapp.com";
         //testgit
@@ -43,6 +49,15 @@ public class Principal extends AppCompatActivity {
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
 
+
+    }
+
+    public void createDB(){
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE,null);
+        db.execSQL("CREATE TABLE IF NOT EXISTS periodo (" +
+                "ID INTEGER PRIMARY KEY, " +
+                "DESCRICAO TEXT);" );
+        db.close();
 
     }
 
