@@ -4,13 +4,50 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="unifra.edu.mobile.easybus.Itinerarios">
 
     <TextView
+        android:id="@+id/ufsm"
+        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Itinerários"
+        android:text="UFSM"
+        android:textColor="@color/bcgColor2Dark"
         android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/circular"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Circular"
+        android:textColor="@color/bcgColor2Dark"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/camobi"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Camobi"
+        android:textColor="@color/bcgColor2Dark"
+        android:textSize="20sp"/>
+
+    <ScrollView
+        android:layout_marginTop="60sp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/sv_horarios"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Horários"/>
+        </LinearLayout>
+    </ScrollView>
 
 
 </LinearLayout>
