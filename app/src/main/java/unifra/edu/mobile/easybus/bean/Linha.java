@@ -7,18 +7,38 @@ import unifra.edu.mobile.easybus.Periodo;
  */
 
 public class Linha {
+    private int id;
+    private String hora;
     private String descricao;
     private Periodo periodo;
     private String direcao;
+    private String empresa;
 
-      public Linha(String descricao, Periodo periodo, String direcao) {
+    public Linha() {
+    }
+
+    public Linha(String hora, String descricao, Periodo periodo, String direcao, String empresa) {
+        this.hora = hora;
         this.descricao = descricao;
         this.periodo = periodo;
         this.direcao = direcao;
+        this.empresa = empresa;
     }
 
     public String getDescricao() {
         return descricao;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getHora() {
+        return hora;
+    }
+
+    public void setHora(String hora) {
+        this.hora = hora;
     }
 
     public void setDescricao(String descricao) {
@@ -39,5 +59,13 @@ public class Linha {
 
     public void setDirecao(String direcao) {
         this.direcao = direcao;
+    }
+
+    public String getEmpresa() {
+        return empresa;
+    }
+
+    public void setEmpresa(String empresa) {
+        this.empresa = empresa;
     }
 }

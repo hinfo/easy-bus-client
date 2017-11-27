@@ -1,0 +1,38 @@
+
+*** These modified files were found in JOE when it aborted on Mon Nov 27 16:03:47 2017
+*** JOE was aborted because the terminal closed
+
+*** File '/home/icone/Devel/easy-bus-client/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch teste
+# Changes to be committed:
+#	renamed:    app/src/main/java/unifra/edu/mobile/easybus/bus.json -> app/src/main/assets/bus.json
+#	modified:   app/src/main/java/unifra/edu/mobile/easybus/Principal.java
+#	modified:   app/src/main/java/unifra/edu/mobile/easybus/Result.java
+#	modified:   app/src/main/java/unifra/edu/mobile/easybus/bean/Linha.java
+#	modified:   app/src/main/res/layout/activity_result.xml
+#
+Adicionado metodo para criar o banco, método para ler arquivo Json e reconfigurado a estrutura de diretórios.
+[A
+
+
+
+*** File '(Unnamed)'
+elemraiz
+nfse
+axis
+
+*** File '(Unnamed)'
+/home/icone/NetBeansProjects/eficere_Setup/.git/MERGE_MSG
+/home/icone/NetBeansProjects/eficere_Setup/.git/MERGE_MSG
+svr.ini
+../config.txt
+MetodosAuxiliares.java
+MetodosAuxiliares.java
+project.xml
+build-impl.xml
+/etc/hosts
+testeConsultaNFA1.sh
+/home/icone/Devel/easy-bus-client/.git/COMMIT_EDITMSG

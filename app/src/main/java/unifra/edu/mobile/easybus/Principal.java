@@ -2,12 +2,14 @@ package unifra.edu.mobile.easybus;
 
 import android.content.Context;
 import android.content.Intent;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Spinner;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
@@ -17,6 +19,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+
+import unifra.edu.mobile.easybus.bean.Linha;
 
 public class Principal extends AppCompatActivity {
 
@@ -48,15 +52,20 @@ public class Principal extends AppCompatActivity {
         telaEmpresas = new Intent(this, Empresas.class);
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
+        createDB();
 
 
     }
 
     public void createDB(){
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE,null);
-        db.execSQL("CREATE TABLE IF NOT EXISTS periodo (" +
+        db.execSQL("CREATE TABLE IF NOT EXISTS horarios (" +
                 "ID INTEGER PRIMARY KEY, " +
-                "DESCRICAO TEXT);" );
+                "HORA TEXT, " +
+                "DESCRICAO TEXT, " +
+                "LINHA TEXT, " +
+                "DIRECAO TEXT, " +
+                "EMPRESA TEXT);" );
         db.close();
 
     }
@@ -122,6 +131,25 @@ public class Principal extends AppCompatActivity {
         startActivity(telaResult);
     }
 
+    public void buscaHorarios(String linha, String direcao, String periodo){
+        db = openOrCreateDatabase(BANCO,Context.MODE_PRIVATE, null);
+        Cursor rows = db.rawQuery("SELECT * FROM horarios " +
+                "WHERE linha= '" +linha +
+        "AND direcao = '"+direcao+"'", null);
+        if (rows.moveToFirst()){
+            do {
+                String hora = rows.getString(1);
+                String lin = rows.getString(2);
+                String sentido = rows.getString(3);
+                String descricao = rows.getString(4);
+            } while (rows.moveToNext());
+        }
+        db.close();
+    }
+
+    public void inserirDados(Linha linha){
+
+    }
     public void showHorarios(View v){
         startActivity(telaHorarios);
     }
@@ -133,6 +161,7 @@ public class Principal extends AppCompatActivity {
     public void showItinerarios(View v){
         startActivity(telaItinerarios);
     }
+
 
 
 }

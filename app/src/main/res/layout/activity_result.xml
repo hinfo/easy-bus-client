@@ -19,10 +19,11 @@
             android:background="@color/bcgColor2Primary">
 
             <TextView
+                android:id="@+id/result"
                 android:layout_span="3"
                 android:padding="5dip"
                 android:text="Horários"
-                android:textSize="40sp"
+                android:textSize="10sp"
                 android:textColor="@color/bcgColor2Dark"
                 android:layout_gravity="center"
                 />
