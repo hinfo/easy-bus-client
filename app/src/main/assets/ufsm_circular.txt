@@ -1,0 +1,19 @@
+06:00;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+06:25;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+06:50;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+07:53;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+12:15;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+13:15;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+14:00;Circular da UFSM até a UFSM;Centro-UFSM;Circular;Segunda a Sexta
+07:10;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+11:30;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+12:30;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+13:15;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+16:35;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+17:20;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+17:40;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+19:15;Até AV. Medianeira;UFSM-Centro;Circular;Segunda a Sexta
+06:00;Via faixa nova sáb e dom;Centro-UFSM;Circular;Sábados
+12:00;Via faixa nova sáb e dom;Centro-UFSM;Circular;Sábados
+07:15;Via faixa nova sáb e dom;UFSM-Centro;Circular;Sábados
+13:15;Via faixa nova sáb e dom;UFSM-Centro;Circular;Sábados

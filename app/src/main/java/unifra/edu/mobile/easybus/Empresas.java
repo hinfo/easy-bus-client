@@ -1,6 +1,7 @@
 package unifra.edu.mobile.easybus;
 
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -89,6 +90,8 @@ public class Empresas extends AppCompatActivity {
                 lines.append("Telefone: " + telefone + "\n");
                 lines.append("Email: " + email + "\n");
                 lines.append("Site: " + site + "\n");
+                dadosEmpresa.setTextSize(18);
+                dadosEmpresa.setTextColor(Color.BLUE);
                 dadosEmpresa.setText(lines.toString());
                 break;
 

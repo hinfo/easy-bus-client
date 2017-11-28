@@ -1,0 +1,150 @@
+06:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:25;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:31;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:37;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:43;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:49;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:55;Tambo      ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:02;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:03;DIRETO     ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:07;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:13;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:19;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:25;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:31;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:36;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:37;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:43;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:48;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:49;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+07:54;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:00;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:06;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:10;Tambo      ; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:22;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:33;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:43;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+08:55;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+09:05;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+09:35;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+09:45;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+10:00;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+10:25;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+11:00;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+11:30;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+11:48;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+12:00;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+12:08;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+12:20;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+12:42;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+12:52;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:00;Tambo      ; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:02;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:18;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:35;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:40;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+13:55;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+14:08;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+14:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+14:25;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+14:40;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+14:55;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+15:10;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+15:45;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+15:55;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+16:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+16:32;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+16:40;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+16:55;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+17:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+17:20;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+17:30;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+17:40;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+17:50;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+18:00;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+18:08;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+18:30;Faixa nova ; Centro - UFSM;Bombeiros;Segunda a Sexta
+18:45;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+19:10;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+20:40;Faixa velha; Centro - UFSM;Bombeiros;Segunda a Sexta
+21:00;FAIXA VELHA SAIDA DA VALE MACHADO DESCE A RUA DOS ANDRADAS, RUA BARÃO DO TRIUNFO, PRAÇA DOS BOMBEIROS;Centro - UFSM;Bombeiros;Segunda a Sexta    
+21:10;Faixa velha;Centro - UFSM;Bombeiros;Segunda a Sexta
+21:15;FAIXA VELHA SAIDA DA VALE MACHADO DESCE A RUA DOS ANDRADAS, RUA BARÃO DO TRIUNFO, PRAÇA DOS BOMBEIROS; Centro - UFSM;Bombeiros;Segunda a Sexta
+21:40;FAIXA VELHA SAIDA DA VALE MACHADO DESCE A RUA DOS ANDRADAS, RUA BARÃO DO TRIUNFO, PRAÇA DOS BOMBEIROS; Centro - UFSM;Bombeiros;Segunda a Sexta
+22:10;Faixa velha;Centro - UFSM;Bombeiros;Segunda a Sexta
+22:15;FAIXA VELHA SAIDA DA VALE MACHADO DESCE A RUA DOS ANDRADAS, RUA BARÃO DO TRIUNFO, PRAÇA DOS BOMBEIROS; Centro - UFSM;Bombeiros;Segunda a Sexta
+22:40;FAIXA VELHA SAIDA DA VALE MACHADO DESCE A RUA DOS ANDRADAS, RUA BARÃO DO TRIUNFO, PRAÇA DOS BOMBEIROS; Centro - UFSM;Bombeiros;Segunda a Sexta
+06:45;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+07:00;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+07:15;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+07:30;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+07:40;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+07:50;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:00;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:05;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:10;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:25;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:30;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:45;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+08:55;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+09:05;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+09:15;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+09:35;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+09:45;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+10:05;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+10:15;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+10:35;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+10:55;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+11:20;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+11:30;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+11:40;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+11:50;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:00;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:10;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:22;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:32;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:45;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+12:55;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+13:05;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+13:20;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+13:35;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+13:52;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+14:02;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+14:16;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+14:20;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+14:35;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+14:50;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:00;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:05;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:12;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:24;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:36;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+15:52;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:00;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:05;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:12;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:24;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:36;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+16:48;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:04;DIRETO     ;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:12;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:24;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:30;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:48;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+17:56;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+18:04;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+18:12;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+18:20;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+18:36;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+18:50;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+19:05;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+19:20;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+19:30;Faixa nova ;UFSM - Centro;Bombeiros;Segunda a Sexta
+20:00;Faixa velha;UFSM - Centro;Bombeiros;Segunda a Sexta
+20:15;FAIXA VELHA SENTIDO UFSM-CENTRO VAI ATÉ VALE MACHADO E PASSA NOS BOMBEIROS;UFSM → Centro;Bombeiros;Segunda a Sexta
+20:40;Faixa velha;UFSM → Centro;Bombeiros;Segunda a Sexta
+21:40;Faixa velha;UFSM → Centro;Bombeiros;Segunda a Sexta
+22:10;FAIXA NOVA VAI ATÉ VALE MACHADO NO CENTRO, APÓS ATÉ A PRAÇA DOS BOMBEIROS;UFSM → Centro;Bombeiros;Segunda a Sexta
+22:20;Faixa nova;UFSM → Centro;Bombeiros;Segunda a Sexta
+23:05;FAIXA VELHA SENTIDO UFSM-CENTRO VAI ATÉ VALE MACHADO E PASSA NOS BOMBEIROS;UFSM → Centro;Bombeiros;Segunda a Sexta
