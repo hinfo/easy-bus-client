@@ -1,5 +1,6 @@
 package unifra.edu.mobile.easybus;
 
+import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
@@ -51,7 +52,8 @@ public class Principal extends AppCompatActivity {
         telaEmpresas = new Intent(this, Empresas.class);
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
-        createDB();
+        readFile("ufsm.txt");
+//        createDB();
 
 
     }
@@ -146,9 +148,53 @@ public class Principal extends AppCompatActivity {
         db.close();
     }
 
-    public void inserirDados(Linha linha){
+    public void inserirDadosSQL(Linha linha){
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
+        db.execSQL("INSERT INTO horarios (HORA, LINHA, DESCRICAO, DIRECAO) VALUES (" +
+                "'"+linha.getHora()+"','"+linha.getNome()+"','"+linha.getDescricao()+
+                "','" + linha.getDirecao() + "')");
+        db.close();
 
     }
+    public void inserirContentValues(Linha linhaDeOnibus){
+        ContentValues valores = new ContentValues();
+        valores.put("hora", linhaDeOnibus.getHora());
+        valores.put("descricao", linhaDeOnibus.getDescricao());
+        valores.put("linha", linhaDeOnibus.getNome());
+        valores.put("direcao", linhaDeOnibus.getDirecao());
+        valores.put("empresa", linhaDeOnibus.getEmpresa());
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
+        db.insert("horarios", null, valores);
+        db.close();
+//        Toast.makeText(getApplicationContext(), "Dados inseridos",
+//                Toast.LENGTH_SHORT).show();
+    }
+    public void  readFile(String nomeArquivo){
+        String result = "";
+        try {
+            InputStream in = this.getAssets().open(nomeArquivo);
+            BufferedReader br = new BufferedReader(new InputStreamReader(in));
+            String line = "";
+            StringBuilder linhas = new StringBuilder();
+            while ((line = br.readLine()) != null) {
+
+                System.out.println(line); // log
+                linhas.append(line + "\n");
+            }
+            result = linhas.toString();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    public void excluirSQL(int id){
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
+        db.execSQL("DELETE FROM horarios WHERE id = "+id);
+        db.close();
+        Toast.makeText(getApplicationContext(), "Registro Excluído",
+                Toast.LENGTH_SHORT).show();
+    }
+
+
     public void showHorarios(View v){
         startActivity(telaHorarios);
     }
