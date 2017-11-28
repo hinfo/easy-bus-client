@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Spinner;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
@@ -60,7 +59,7 @@ public class Principal extends AppCompatActivity {
     public void createDB(){
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE,null);
         db.execSQL("CREATE TABLE IF NOT EXISTS horarios (" +
-                "ID INTEGER PRIMARY KEY, " +
+                "ID INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 "HORA TEXT, " +
                 "DESCRICAO TEXT, " +
                 "LINHA TEXT, " +

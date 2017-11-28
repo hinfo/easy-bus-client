@@ -1,37 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fillViewport="true"
     tools:context="unifra.edu.mobile.easybus.Result">
 
-    <TableLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:stretchColumns="*"
-        >
 
-
-        <TableRow
+        <TableLayout
+            android:id="@+id/resultado"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/bcgColor2Primary">
+            android:stretchColumns="*">
 
-            <TextView
-                android:id="@+id/result"
-                android:layout_span="3"
-                android:padding="5dip"
-                android:text="Horários"
-                android:textSize="10sp"
-                android:textColor="@color/bcgColor2Dark"
-                android:layout_gravity="center"
-                />
-        </TableRow>
+            <TableRow
+                android:id="@+id/head"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/bcgColor2Primary">
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_span="1"
+                    android:padding="5dip"
+                    android:text="Hora"
+                    android:textColor="@color/bcgColor2Dark"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_span="1"
+                    android:padding="5dip"
+                    android:text="Descrição"
+                    android:textColor="@color/bcgColor2Dark"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_span="1"
+                    android:padding="5dip"
+                    android:text="Linha"
+                    android:textColor="@color/bcgColor2Dark"
+                    android:textSize="20sp" />
+            </TableRow>
 
 
-    </TableLayout>
+        </TableLayout>
 
 
-
-</LinearLayout>
+</ScrollView>

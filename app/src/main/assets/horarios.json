@@ -1,0 +1,279 @@
+{
+  "linhas": [
+    {
+      "hora":"05:20",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"05:50",
+      "descricao": "T NEVES CAMPUS VIA LAVRAS DO SUL",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:00",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:05",
+      "descricao": "T NEVES CAMPUS SAI DO TREVO DO BOI MORTO",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:25",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:30",
+      "descricao": "T NEVES CAMPUS VIA CASUSA",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:35",
+      "descricao": "T NEVES CAMPUS VIA LAVRAS DO SUL",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:46",
+      "descricao": "T NEVES CAMPUS SAI DA SANTA MARTA",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:50",
+      "descricao": "T NEVES CAMPUS SAI DO TREVO DO BOI MORTO",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"07:00",
+      "descricao": "T NEVES CAMPUS SAI DO TREVO DO BOI MORTO",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"07:05",
+      "descricao": "T NEVES CAMPUS VIA LAVRAS DO SUL",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"07:15",
+      "descricao": "T NEVES CAMPUS SAI DA SANTA MARTA",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"07:25",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"08:25",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"09:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"10:25",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"11:10",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"12:05",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"12:45",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"13:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"14:05",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"15:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"17:25",
+      "descricao": "T NEVES CAMPUS SAI DO TREVO DO BOI MORTO",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"17:55",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "Bairro - UFSM",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"05:25",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:20",
+      "descricao": "T NEVES CAMPUS VIA CASUSA",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"06:50",
+      "descricao": "T NEVES CAMPUS ATE O TREVO DA UGLIONE",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"",
+      "descricao": "",
+      "direcao": "UFSM - Bairro",
+      "periodo": "dias uteis",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"07:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "Domingos e Feriados",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"13:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "Domingos e Feriados",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"15:10",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "Domingos e Feriados",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"16:10",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "Domingos e Feriados",
+      "nome":"T NEVES CAMPUS"
+    },
+    {
+      "hora":"19:15",
+      "descricao": "T NEVES CAMPUS",
+      "direcao": "UFSM - Bairro",
+      "periodo": "Domingos e Feriados",
+      "nome":"T NEVES CAMPUS"
+    }
+
+
+    ]
+}

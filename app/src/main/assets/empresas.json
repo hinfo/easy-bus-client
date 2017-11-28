@@ -1,0 +1,34 @@
+{
+  "empresas": [
+    {
+      "nome":"Gabardo Transportes",
+      "endereco": "Rua Ernesto Becker, n° 18, Cep 97020-140 - Vila Oliveira, Santa Maria - Rio Grande do Sul - Brasil",
+      "telefone": "3212-3030 3212-1940 ",
+      "email": "contato@gabardotransportes.com.br",
+      "site":"http://www.gabardotransportes.com.br/"
+    },
+    {
+      "nome":"Expresso Dores",
+      "endereco": "Av. Osvaldo Cruz, 240, Santa Maria - RS,CEP: 97095-470",
+      "telefone": "3223 4161",
+      "email": "contato@expressodores.com.br",
+      "site":"http://www.expressodores.com.br"
+    },
+    {
+      "nome":"Transportes Salgado Filho",
+      "endereco": "Avenida Borges de Medeiros, 1098 Santa Maria (RS)",
+      "telefone": "(55) 3225-5115",
+      "email": "contato@transportesalgadofilho.com.br",
+      "site":"http://www.transportesalgadofilho.com.br"
+    },
+    {
+      "nome":"Expresso Medianeira",
+      "endereco": "",
+      "telefone": "",
+      "email": "",
+      "site":"http://www.expressomedianeira.com.br/"
+    }
+
+
+    ]
+}

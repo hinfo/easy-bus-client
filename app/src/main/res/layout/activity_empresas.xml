@@ -15,6 +15,7 @@
         android:layout_marginTop="10sp"
         android:text="Empresas de Transportes"
         android:layout_gravity="center|fill"
+        android:onClick="onClick"
         android:textSize="30sp" />
     <TextView
         android:id="@+id/emp1"
@@ -22,6 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10sp"
         android:text="Gabardo Transportes"
+        android:onClick="onClick"
         android:textSize="20sp" />
 
     <TextView
@@ -30,6 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10sp"
         android:text="Expresso Medianeira"
+        android:onClick="onClick"
         android:textSize="20sp" />
     <TextView
         android:id="@+id/emp3"
@@ -37,13 +40,15 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10sp"
         android:text="Transportes Salgado Filho"
+        android:onClick="onClick"
         android:textSize="20sp" />
     <TextView
         android:id="@+id/emp4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10sp"
-        android:text="Expresso Itararé"
+        android:text="Viação Centro Oeste"
+        android:onClick="onClick"
         android:textSize="20sp" />
     <TextView
         android:id="@+id/emp5"
@@ -51,6 +56,13 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10sp"
         android:text="Expresso Dores"
+        android:onClick="onClick"
         android:textSize="20sp" />
+    <TextView
+        android:id="@+id/dadosEmpresa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20sp"
+        android:textSize="15dp"/>
 
 </LinearLayout>

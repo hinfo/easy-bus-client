@@ -12,16 +12,18 @@ public class Linha {
     private String descricao;
     private Periodo periodo;
     private String direcao;
+    private String nome;
     private String empresa;
 
     public Linha() {
     }
 
-    public Linha(String hora, String descricao, Periodo periodo, String direcao, String empresa) {
+    public Linha(String hora, String descricao, Periodo periodo, String direcao, String nome, String empresa) {
         this.hora = hora;
         this.descricao = descricao;
         this.periodo = periodo;
         this.direcao = direcao;
+        this.nome = nome;
         this.empresa = empresa;
     }
 
@@ -67,5 +69,13 @@ public class Linha {
 
     public void setEmpresa(String empresa) {
         this.empresa = empresa;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 }
