@@ -16,6 +16,10 @@ public class Itinerarios extends AppCompatActivity {
         LinearLayout ll = (LinearLayout) findViewById(R.id.sv_horarios);
 
     }
+
+    public void onClick(View v){
+
+    }
     public void openPrincipalClick(View v){
         finish();
     }

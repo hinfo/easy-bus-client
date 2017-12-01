@@ -7,46 +7,43 @@
     android:fillViewport="true"
     tools:context="unifra.edu.mobile.easybus.Result">
 
+    <TableLayout
+        android:id="@+id/resultado"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*">
 
-        <TableLayout
-            android:id="@+id/resultado"
+        <TableRow
+            android:id="@+id/head"
+
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:stretchColumns="*">
+            android:background="@color/bcgColor2Primary">
 
-            <TableRow
-                android:id="@+id/head"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@color/bcgColor2Primary">
+            <TextView
+                android:layout_gravity="center"
+                android:layout_span="1"
+                android:padding="5dip"
+                android:text="Hora"
+                android:textColor="@color/bcgColor2Dark"
+                android:textSize="20sp" />
 
-                <TextView
-                    android:layout_gravity="center"
-                    android:layout_span="1"
-                    android:padding="5dip"
-                    android:text="Hora"
-                    android:textColor="@color/bcgColor2Dark"
-                    android:textSize="20sp" />
+            <TextView
+                android:layout_gravity="center"
+                android:layout_span="1"
+                android:padding="5dip"
+                android:text="Descrição"
+                android:textColor="@color/bcgColor2Dark"
+                android:textSize="20sp" />
 
-                <TextView
-                    android:layout_gravity="center"
-                    android:layout_span="1"
-                    android:padding="5dip"
-                    android:text="Descrição"
-                    android:textColor="@color/bcgColor2Dark"
-                    android:textSize="20sp" />
-
-                <TextView
-                    android:layout_gravity="center"
-                    android:layout_span="1"
-                    android:padding="5dip"
-                    android:text="Linha"
-                    android:textColor="@color/bcgColor2Dark"
-                    android:textSize="20sp" />
-            </TableRow>
-
-
-        </TableLayout>
-
+            <TextView
+                android:layout_gravity="center"
+                android:layout_span="1"
+                android:padding="5dip"
+                android:text="Direção"
+                android:textColor="@color/bcgColor2Dark"
+                android:textSize="20sp" />
+        </TableRow>
+    </TableLayout>
 
 </ScrollView>

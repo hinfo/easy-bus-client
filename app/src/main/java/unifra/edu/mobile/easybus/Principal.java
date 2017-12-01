@@ -19,6 +19,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.List;
 
 import unifra.edu.mobile.easybus.bean.Linha;
 
@@ -52,8 +54,8 @@ public class Principal extends AppCompatActivity {
         telaEmpresas = new Intent(this, Empresas.class);
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
-        readFile("ufsm.txt");
-//        createDB();
+//        readFilePopulateBd("ufsm.txt");
+        createDB();
 
 
     }
@@ -64,10 +66,20 @@ public class Principal extends AppCompatActivity {
                 "ID INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 "HORA TEXT, " +
                 "DESCRICAO TEXT, " +
-                "LINHA TEXT, " +
                 "DIRECAO TEXT, " +
+                "LINHA TEXT, " +
+                "PERIODO TEXT," +
                 "EMPRESA TEXT);" );
         db.close();
+
+        List<Linha> horarios = new ArrayList<>();
+        horarios = readFilePopulateBd("ufsm.txt");
+        System.out.println("Populando o banco");
+        for (Linha linha : horarios) {
+            inserir(linha);
+//            System.out.println("Dados: " + linha.getDirecao());
+        }
+
 
     }
 
@@ -129,6 +141,7 @@ public class Principal extends AppCompatActivity {
         telaResult.putExtra("linha", linha);
         telaResult.putExtra("direcao", direcao);
         telaResult.putExtra("periodo", periodo);
+        telaResult.putExtra("banco", BANCO);
         startActivity(telaResult);
     }
 
@@ -150,13 +163,14 @@ public class Principal extends AppCompatActivity {
 
     public void inserirDadosSQL(Linha linha){
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
-        db.execSQL("INSERT INTO horarios (HORA, LINHA, DESCRICAO, DIRECAO) VALUES (" +
-                "'"+linha.getHora()+"','"+linha.getNome()+"','"+linha.getDescricao()+
-                "','" + linha.getDirecao() + "')");
+        db.execSQL("INSERT INTO horarios (HORA, DESCRICAO, DIRECAO, LINHA, PERIODO) VALUES (" +
+                "'"+linha.getHora()+"','"+linha.getDescricao()+"','"+linha.getDirecao()+
+                "','" + linha.getNome() +
+                "','" + linha.getPeriodo() + "')");
         db.close();
 
     }
-    public void inserirContentValues(Linha linhaDeOnibus){
+    public void inserir(Linha linhaDeOnibus){
         ContentValues valores = new ContentValues();
         valores.put("hora", linhaDeOnibus.getHora());
         valores.put("descricao", linhaDeOnibus.getDescricao());
@@ -169,22 +183,36 @@ public class Principal extends AppCompatActivity {
 //        Toast.makeText(getApplicationContext(), "Dados inseridos",
 //                Toast.LENGTH_SHORT).show();
     }
-    public void  readFile(String nomeArquivo){
+    public List<Linha> readFilePopulateBd(String nomeArquivo){
         String result = "";
+        List<Linha> horariosDeOnibus = new ArrayList<>();
         try {
             InputStream in = this.getAssets().open(nomeArquivo);
             BufferedReader br = new BufferedReader(new InputStreamReader(in));
             String line = "";
+            String[] dados = null;
             StringBuilder linhas = new StringBuilder();
             while ((line = br.readLine()) != null) {
-
-                System.out.println(line); // log
-                linhas.append(line + "\n");
+                Linha linha = new Linha();
+                dados = line.split(";");
+//                System.out.println("hora: " + dados[0]);
+//                System.out.println("Descrição: " + dados[1]);
+//                System.out.println("Direção: " + dados[2]);
+//                System.out.println("Nome: " + dados[3]);
+//                System.out.println("Período: " + dados[4]);
+                linha.setHora(dados[0]);
+                linha.setDescricao(dados[1]);
+                linha.setDirecao(dados[2]);
+                linha.setNome(dados[3]);
+                linha.setPeriodo(dados[4]);
+                linha.setEmpresa("teste");
+//                System.out.println(line); // log
+                horariosDeOnibus.add(linha);
             }
-            result = linhas.toString();
         } catch (IOException e) {
             e.printStackTrace();
         }
+        return horariosDeOnibus;
     }
     public void excluirSQL(int id){
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);

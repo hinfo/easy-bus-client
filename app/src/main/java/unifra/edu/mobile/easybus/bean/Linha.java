@@ -1,7 +1,5 @@
 package unifra.edu.mobile.easybus.bean;
 
-import unifra.edu.mobile.easybus.Periodo;
-
 /**
  * Created by icone on 24/11/17.
  */
@@ -10,7 +8,7 @@ public class Linha {
     private int id;
     private String hora;
     private String descricao;
-    private Periodo periodo;
+    private String periodo;
     private String direcao;
     private String nome;
     private String empresa;
@@ -18,12 +16,12 @@ public class Linha {
     public Linha() {
     }
 
-    public Linha(String hora, String descricao, Periodo periodo, String direcao, String nome, String empresa) {
+    public Linha(String hora, String descricao, String periodo, String direcao, String nome, String empresa) {
         this.hora = hora;
         this.descricao = descricao;
-        this.periodo = periodo;
         this.direcao = direcao;
         this.nome = nome;
+        this.periodo = periodo;
         this.empresa = empresa;
     }
 
@@ -47,11 +45,11 @@ public class Linha {
         this.descricao = descricao;
     }
 
-    public Periodo getPeriodo() {
+    public String getPeriodo() {
         return periodo;
     }
 
-    public void setPeriodo(Periodo periodo) {
+    public void setPeriodo(String periodo) {
         this.periodo = periodo;
     }
 

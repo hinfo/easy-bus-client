@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="linhas">
-        <item>Ufsm</item>
+        <item>CAMPUS UFSM</item>
         <item>Itarare</item>
         <item>Circular</item>
         <item>T.Neves</item>
@@ -12,7 +12,7 @@
         <item>Bairro-Centro</item>
     </string-array>
     <string-array name="periodo">
-        <item>Dias Úteis</item>
+        <item>Dias Uteis</item>
         <item>Sábado</item>
         <item>Domingos e Feriados</item>
     </string-array>
