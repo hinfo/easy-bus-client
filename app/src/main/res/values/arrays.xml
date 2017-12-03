@@ -16,4 +16,9 @@
         <item>Sábados</item>
         <item>Domingos e Feriados</item>
     </string-array>
+    <string-array name="itinerarios">
+        <item>UFSM</item>
+        <item>Circular</item>
+        <item>Camobi</item>
+    </string-array>
 </resources>

@@ -24,6 +24,7 @@ import java.io.InputStreamReader;
 public class Result extends AppCompatActivity {
     Intent it;
     TableLayout tableLayout;
+    TextView title;
     SQLiteDatabase db;
     String BANCO;
 
@@ -35,18 +36,19 @@ public class Result extends AppCompatActivity {
         it = new Intent(this, Principal.class);
         Intent params = getIntent();
         tableLayout = (TableLayout) findViewById(R.id.resultado);
-//        scrollView = (ScrollView) findViewById(R.id.resultados);
+        title = (TextView) findViewById(R.id.titleResult);
         String sql = "";
         if (params != null) {
             BANCO = params.getStringExtra("banco");
             String linha = params.getStringExtra("linha");
             String direcao = params.getStringExtra("direcao");
             String periodo = params.getStringExtra("periodo");
+            title.setText("Horários para " + periodo);
             System.out.println("Linha: " + linha);
             System.out.println("Direcao : " + direcao);
             System.out.println("Periodo : " + periodo);
             sql = "SELECT * FROM horarios " +
-                    "WHERE linha='" +linha +"'" +
+                    "WHERE linha='" + linha + "'" +
                     " AND direcao='" + direcao + "'" +
                     " AND periodo='" + periodo + "'" +
                     " ORDER BY hora ;";
@@ -59,7 +61,7 @@ public class Result extends AppCompatActivity {
 //            " AND direcao='" + direcao + "';";
 
         }
-            buscaHorarios(sql);
+        buscaHorarios(sql);
     }
 
     public void visualizarArquivo() throws JSONException {
@@ -107,15 +109,16 @@ public class Result extends AppCompatActivity {
             tableLayout.addView(tableRow);
         }
     }
-    public void buscaHorarios(String sql){
+
+    public void buscaHorarios(String sql) {
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
 
-        Cursor rows = db.rawQuery(sql,null);
+        Cursor rows = db.rawQuery(sql, null);
 //        Cursor rows = db.rawQuery("SELECT * FROM horarios " +
 //                "WHERE linha= '" +linha +
 //                "AND direcao = '"+direcao+"'", null);
-        if (rows.moveToFirst()){
-            Toast.makeText(Result.this,"Mostrando os resultados", Toast.LENGTH_LONG).show();
+        if (rows.moveToFirst()) {
+            Toast.makeText(Result.this, "Mostrando os resultados", Toast.LENGTH_LONG).show();
             do {
                 TableRow tableRow = new TableRow(this);
                 TextView text1 = new TextView(this);
@@ -127,6 +130,7 @@ public class Result extends AppCompatActivity {
                 String nome = rows.getString(4);
                 text1.setText(hora);
                 text1.setWidth(5);
+                text1.setTextSize(15);
                 text2.setText(descricao);
                 text2.setWidth(150);
                 text3.setText(direcao);
@@ -138,7 +142,7 @@ public class Result extends AppCompatActivity {
 
             } while (rows.moveToNext());
         } else {
-            Toast.makeText(Result.this,"Nenhum dado encontrado!",Toast.LENGTH_LONG).show();
+            Toast.makeText(Result.this, "Nenhum dado encontrado!", Toast.LENGTH_LONG).show();
         }
         db.close();
     }

@@ -8,46 +8,70 @@
     tools:context="unifra.edu.mobile.easybus.Itinerarios">
 
     <TextView
-        android:id="@+id/ufsm"
-        android:layout_marginTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="UFSM"
-        android:textColor="@color/bcgColor2Dark"
-        android:textSize="20sp"/>
-    <TextView
-        android:id="@+id/circular"
-        android:layout_marginTop="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Circular"
-        android:textColor="@color/bcgColor2Dark"
-        android:textSize="20sp"/>
-    <TextView
-        android:id="@+id/camobi"
-        android:layout_marginTop="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Camobi"
-        android:textColor="@color/bcgColor2Dark"
-        android:textSize="20sp"/>
+        android:textSize="25sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:background="@color/bcgColor2Dark"
+        android:text="Descrição dos Itinerários"/>
 
     <ScrollView
-        android:layout_marginTop="60sp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content">
 
         <LinearLayout
-            android:id="@+id/sv_horarios"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="#FFFFFF"
             android:orientation="vertical">
+
             <TextView
+                android:id="@+id/tvUfsm"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Horários"/>
+                android:background="@color/bcgColor2Primary"
+                android:textColor="@color/bcgColor2Dark"
+                android:textStyle="bold"
+                android:text="CAMPUS UFSM"
+                android:textSize="20sp"/>
+            <LinearLayout
+                android:id="@+id/descUFSM"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:text="@string/descUfsm" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvCircular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/bcgColor2Primary"
+                android:textColor="@color/bcgColor2Dark"
+                android:textStyle="bold"
+                android:text="Circular"
+                android:textSize="20sp"/>
+            <LinearLayout
+                android:id="@+id/descCircular"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:text="@string/descCircular"/>
+
+            </LinearLayout>
+
+
         </LinearLayout>
     </ScrollView>
-
-
 </LinearLayout>

@@ -8,46 +8,53 @@
     tools:context="unifra.edu.mobile.easybus.Principal">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="Projeto Easy Bus"
-        android:textColor="@color/bcgColor2Dark"
-        android:textAlignment="center"
-        android:textSize="20sp" />
-
-    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:layout_gravity="center"
+        android:background="@color/bcgColor2Dark"
+        android:text="Projeto Easy Bus"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*">
+        <TableRow>
 
         <Button
-            android:layout_width="129dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="showHorarios"
+            android:background="@color/bcgColor2Primary"
+            android:onClick="showFavoritos"
             android:text="Favoritos" />
 
         <Button
-            android:layout_width="127dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/bcgColor2Primary"
             android:onClick="showItinerarios"
             android:text="Itinerários" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/bcgColor2Primary"
             android:onClick="showEmpresas"
             android:text="Empresas" />
+        </TableRow>
 
 
-    </LinearLayout>
+    </TableLayout>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Selecione a Linha"
         android:background="@color/bcgColor2Primary"
-        android:textColor="@color/fontColor"
+        android:textColor="#0d3b01"
         android:textSize="20sp" />
 
     <Spinner
@@ -64,7 +71,7 @@
         android:layout_height="wrap_content"
         android:text="Escolha a direção"
         android:background="@color/colorPrimary"
-        android:textColor="@color/fontColor"
+        android:textColor="#012804"
         android:textSize="20sp" />
 
     <Spinner
@@ -81,7 +88,7 @@
         android:layout_height="wrap_content"
         android:text="Escolha o período"
         android:background="@color/bcgColor3Primary"
-        android:textColor="@color/fontColor"
+        android:textColor="#030f51"
         android:textSize="20sp" />
 
     <Spinner
@@ -103,9 +110,10 @@
             android:id="@+id/button"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:text="Cancelar"
+            android:text="Sair"
             android:background="@color/bcgColor3Primary"
             android:textColor="@color/fontColor"
+            android:onClick="clickSair"
             android:layout_weight="0.5" />
 
         <Button

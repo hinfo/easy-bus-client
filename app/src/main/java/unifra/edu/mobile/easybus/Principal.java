@@ -3,7 +3,6 @@ package unifra.edu.mobile.easybus;
 import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
-import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -30,30 +29,37 @@ public class Principal extends AppCompatActivity {
     String linha = "";
     String direcao = "";
     String periodo = "";
-    Intent telaHorarios, telaEmpresas, telaItinerarios, telaResult;
+    Intent telaFavoritos, telaEmpresas, telaItinerarios, telaResult;
     Spinner spLinhas, spDirecao, spPeriodo;
     SQLiteDatabase db;
     String BANCO = "onibus.db";
+    private boolean teste;
+    private final double versionDB = 1.0;
+    private double newVersionDB;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
+        teste = true;
 
-
+        //webservice
         String url = "http://easy-bus.herokuapp.com";
-        //testgit
-        new Acessa().execute(url);
+
+        try {
+            newVersionDB = checkVersion(url);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
 
         spLinhas = (Spinner) findViewById(R.id.spLinhas);
         spDirecao = (Spinner) findViewById(R.id.spDirecao);
         spPeriodo = (Spinner) findViewById(R.id.spPeriodo);
 
-        telaHorarios = new Intent(this, Horarios.class);
+        telaFavoritos = new Intent(this, Favoritos.class);
         telaEmpresas = new Intent(this, Empresas.class);
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
-//        readFilePopulateBd("ufsm.txt");
         createDB();
 
 
@@ -71,12 +77,14 @@ public class Principal extends AppCompatActivity {
                 "EMPRESA TEXT);");
         db.close();
 
-        List<Linha> horarios = new ArrayList<>();
-        horarios = readFilePopulateBd("ufsm.txt");
-        System.out.println("Populando o banco");
-        for (Linha linha : horarios) {
-            inserir(linha);
+        if (newVersionDB > versionDB || teste == false) {
+            List<Linha> horarios = new ArrayList<>();
+            horarios = readFilePopulateBd("ufsm.txt");
+//            System.out.println("Populando o banco");
+            for (Linha linha : horarios) {
+                inserir(linha);
 //            System.out.println("Dados: " + linha.getDirecao());
+            }
         }
 
 
@@ -128,9 +136,12 @@ public class Principal extends AppCompatActivity {
         }
     }
 
-    public void checkVersion() throws MalformedURLException {
-        String url = "https://easy-bus.herokuapp.com/";
+    public double checkVersion(String url) throws MalformedURLException {
+//        String url = "https://easy-bus.herokuapp.com/";
         new Acessa().execute(url);
+        double version = 1.0;
+
+        return version;
     }
 
     public void showResultClick(View v) {
@@ -144,31 +155,6 @@ public class Principal extends AppCompatActivity {
         startActivity(telaResult);
     }
 
-    public void buscaHorarios(String linha, String direcao, String periodo) {
-        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
-        Cursor rows = db.rawQuery("SELECT * FROM horarios " +
-                "WHERE linha= '" + linha +
-                "AND direcao = '" + direcao + "'", null);
-        if (rows.moveToFirst()) {
-            do {
-                String hora = rows.getString(1);
-                String lin = rows.getString(2);
-                String sentido = rows.getString(3);
-                String descricao = rows.getString(4);
-            } while (rows.moveToNext());
-        }
-        db.close();
-    }
-
-    public void inserirDadosSQL(Linha linha) {
-        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
-        db.execSQL("INSERT INTO horarios (HORA, DESCRICAO, DIRECAO, LINHA, PERIODO) VALUES (" +
-                "'" + linha.getHora() + "','" + linha.getDescricao() + "','" + linha.getDirecao() +
-                "','" + linha.getNome() +
-                "','" + linha.getPeriodo() + "')");
-        db.close();
-
-    }
 
     public void inserir(Linha linhaDeOnibus) {
         ContentValues valores = new ContentValues();
@@ -197,13 +183,13 @@ public class Principal extends AppCompatActivity {
             while ((line = br.readLine()) != null) {
                 Linha linha = new Linha();
                 dados = line.split(";");
-                System.out.println("Tamanho dos dados da linha: " + dados.length);
+//                System.out.println("Tamanho dos dados da linha: " + dados.length);
                 if (dados.length > 1) {
 //                System.out.println("hora: " + dados[0]);
 //                System.out.println("Descrição: " + dados[1]);
 //                System.out.println("Direção: " + dados[2]);
-                    System.out.println("Nome: " + dados[3]);
-                    System.out.println("Período: " + dados[4]);
+//                    System.out.println("Nome: " + dados[3]);
+//                    System.out.println("Período: " + dados[4]);
                     linha.setHora(dados[0]);
                     linha.setDescricao(dados[1]);
                     linha.setDirecao(dados[2]);
@@ -229,8 +215,8 @@ public class Principal extends AppCompatActivity {
     }
 
 
-    public void showHorarios(View v) {
-        startActivity(telaHorarios);
+    public void showFavoritos(View v) {
+        startActivity(telaFavoritos);
     }
 
     public void showEmpresas(View v) {
@@ -239,6 +225,10 @@ public class Principal extends AppCompatActivity {
 
     public void showItinerarios(View v) {
         startActivity(telaItinerarios);
+    }
+
+    public void clickSair(View v){
+        finish();
     }
 
 
