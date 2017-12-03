@@ -4,6 +4,7 @@ import android.content.ContentValues;
 import android.content.Context;
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -12,6 +13,9 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -32,8 +36,10 @@ public class Principal extends AppCompatActivity {
     Intent telaFavoritos, telaEmpresas, telaItinerarios, telaResult;
     Spinner spLinhas, spDirecao, spPeriodo;
     SQLiteDatabase db;
+    SQLiteOpenHelper statusDb;
     String BANCO = "onibus.db";
     private boolean teste;
+    private boolean exist;
     private final double versionDB = 1.0;
     private double newVersionDB;
 
@@ -60,8 +66,14 @@ public class Principal extends AppCompatActivity {
         telaEmpresas = new Intent(this, Empresas.class);
         telaItinerarios = new Intent(this, Itinerarios.class);
         telaResult = new Intent(this, Result.class);
-        createDB();
 
+        //Testando se o banco já existe e está populado
+        exist = checkFileInstall();
+        if (!exist) {
+            createDB();
+        } else {
+            System.out.println("Banco não existe!\nCriando o banco.");
+        }
 
     }
 
@@ -76,18 +88,14 @@ public class Principal extends AppCompatActivity {
                 "PERIODO TEXT," +
                 "EMPRESA TEXT);");
         db.close();
-
-        if (newVersionDB > versionDB || teste == false) {
-            List<Linha> horarios = new ArrayList<>();
-            horarios = readFilePopulateBd("ufsm.txt");
+        List<Linha> horarios = new ArrayList<>();
+        horarios = readFilePopulateBd("ufsm.txt");
 //            System.out.println("Populando o banco");
-            for (Linha linha : horarios) {
-                inserir(linha);
+        for (Linha linha : horarios) {
+            inserir(linha);
 //            System.out.println("Dados: " + linha.getDirecao());
-            }
+
         }
-
-
     }
 
 
@@ -227,8 +235,41 @@ public class Principal extends AppCompatActivity {
         startActivity(telaItinerarios);
     }
 
-    public void clickSair(View v){
+    public void clickSair(View v) {
         finish();
+    }
+
+    public void saveFileInstall() {
+        String fileName = "install.txt";
+        try {
+            FileOutputStream out = openFileOutput(fileName, MODE_APPEND);
+            StringBuilder dados = new StringBuilder();
+            dados.append("instalado\n");
+            dados.append("Version: 1.0");
+            out.write(dados.toString().getBytes());
+            out.close();
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public boolean checkFileInstall() {
+        boolean fileExist;
+        String fileName = "install.txt";
+        File f = getFileStreamPath(fileName);
+
+        if (f.exists()) {
+            fileExist = true;
+        } else {
+            saveFileInstall();
+            fileExist = false;
+        }
+
+        return fileExist;
+
     }
 
 
