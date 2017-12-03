@@ -29,7 +29,7 @@ public class Principal extends AppCompatActivity {
     String resposta = "";
     String linha = "";
     String direcao = "";
-    String periodo = "" ;
+    String periodo = "";
     Intent telaHorarios, telaEmpresas, telaItinerarios, telaResult;
     Spinner spLinhas, spDirecao, spPeriodo;
     SQLiteDatabase db;
@@ -39,7 +39,6 @@ public class Principal extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
-
 
 
         String url = "http://easy-bus.herokuapp.com";
@@ -60,8 +59,8 @@ public class Principal extends AppCompatActivity {
 
     }
 
-    public void createDB(){
-        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE,null);
+    public void createDB() {
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
         db.execSQL("CREATE TABLE IF NOT EXISTS horarios (" +
                 "ID INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 "HORA TEXT, " +
@@ -69,7 +68,7 @@ public class Principal extends AppCompatActivity {
                 "DIRECAO TEXT, " +
                 "LINHA TEXT, " +
                 "PERIODO TEXT," +
-                "EMPRESA TEXT);" );
+                "EMPRESA TEXT);");
         db.close();
 
         List<Linha> horarios = new ArrayList<>();
@@ -134,8 +133,8 @@ public class Principal extends AppCompatActivity {
         new Acessa().execute(url);
     }
 
-    public void showResultClick(View v){
-        linha =  (String) spLinhas.getSelectedItem();
+    public void showResultClick(View v) {
+        linha = (String) spLinhas.getSelectedItem();
         direcao = (String) spDirecao.getSelectedItem();
         periodo = (String) spPeriodo.getSelectedItem();
         telaResult.putExtra("linha", linha);
@@ -145,12 +144,12 @@ public class Principal extends AppCompatActivity {
         startActivity(telaResult);
     }
 
-    public void buscaHorarios(String linha, String direcao, String periodo){
-        db = openOrCreateDatabase(BANCO,Context.MODE_PRIVATE, null);
+    public void buscaHorarios(String linha, String direcao, String periodo) {
+        db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
         Cursor rows = db.rawQuery("SELECT * FROM horarios " +
-                "WHERE linha= '" +linha +
-        "AND direcao = '"+direcao+"'", null);
-        if (rows.moveToFirst()){
+                "WHERE linha= '" + linha +
+                "AND direcao = '" + direcao + "'", null);
+        if (rows.moveToFirst()) {
             do {
                 String hora = rows.getString(1);
                 String lin = rows.getString(2);
@@ -161,21 +160,23 @@ public class Principal extends AppCompatActivity {
         db.close();
     }
 
-    public void inserirDadosSQL(Linha linha){
+    public void inserirDadosSQL(Linha linha) {
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
         db.execSQL("INSERT INTO horarios (HORA, DESCRICAO, DIRECAO, LINHA, PERIODO) VALUES (" +
-                "'"+linha.getHora()+"','"+linha.getDescricao()+"','"+linha.getDirecao()+
+                "'" + linha.getHora() + "','" + linha.getDescricao() + "','" + linha.getDirecao() +
                 "','" + linha.getNome() +
                 "','" + linha.getPeriodo() + "')");
         db.close();
 
     }
-    public void inserir(Linha linhaDeOnibus){
+
+    public void inserir(Linha linhaDeOnibus) {
         ContentValues valores = new ContentValues();
         valores.put("hora", linhaDeOnibus.getHora());
         valores.put("descricao", linhaDeOnibus.getDescricao());
         valores.put("linha", linhaDeOnibus.getNome());
         valores.put("direcao", linhaDeOnibus.getDirecao());
+        valores.put("periodo", linhaDeOnibus.getPeriodo());
         valores.put("empresa", linhaDeOnibus.getEmpresa());
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
         db.insert("horarios", null, valores);
@@ -183,7 +184,8 @@ public class Principal extends AppCompatActivity {
 //        Toast.makeText(getApplicationContext(), "Dados inseridos",
 //                Toast.LENGTH_SHORT).show();
     }
-    public List<Linha> readFilePopulateBd(String nomeArquivo){
+
+    public List<Linha> readFilePopulateBd(String nomeArquivo) {
         String result = "";
         List<Linha> horariosDeOnibus = new ArrayList<>();
         try {
@@ -195,46 +197,49 @@ public class Principal extends AppCompatActivity {
             while ((line = br.readLine()) != null) {
                 Linha linha = new Linha();
                 dados = line.split(";");
+                System.out.println("Tamanho dos dados da linha: " + dados.length);
+                if (dados.length > 1) {
 //                System.out.println("hora: " + dados[0]);
 //                System.out.println("Descrição: " + dados[1]);
 //                System.out.println("Direção: " + dados[2]);
-//                System.out.println("Nome: " + dados[3]);
-//                System.out.println("Período: " + dados[4]);
-                linha.setHora(dados[0]);
-                linha.setDescricao(dados[1]);
-                linha.setDirecao(dados[2]);
-                linha.setNome(dados[3]);
-                linha.setPeriodo(dados[4]);
-                linha.setEmpresa("teste");
+                    System.out.println("Nome: " + dados[3]);
+                    System.out.println("Período: " + dados[4]);
+                    linha.setHora(dados[0]);
+                    linha.setDescricao(dados[1]);
+                    linha.setDirecao(dados[2]);
+                    linha.setNome(dados[3]);
+                    linha.setPeriodo(dados[4]);
+                    linha.setEmpresa("teste");
 //                System.out.println(line); // log
-                horariosDeOnibus.add(linha);
+                    horariosDeOnibus.add(linha);
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
         return horariosDeOnibus;
     }
-    public void excluirSQL(int id){
+
+    public void excluirSQL(int id) {
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
-        db.execSQL("DELETE FROM horarios WHERE id = "+id);
+        db.execSQL("DELETE FROM horarios WHERE id = " + id);
         db.close();
         Toast.makeText(getApplicationContext(), "Registro Excluído",
                 Toast.LENGTH_SHORT).show();
     }
 
 
-    public void showHorarios(View v){
+    public void showHorarios(View v) {
         startActivity(telaHorarios);
     }
 
-    public void showEmpresas(View v){
+    public void showEmpresas(View v) {
         startActivity(telaEmpresas);
     }
 
-    public void showItinerarios(View v){
+    public void showItinerarios(View v) {
         startActivity(telaItinerarios);
     }
-
 
 
 }

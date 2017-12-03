@@ -45,16 +45,18 @@ public class Result extends AppCompatActivity {
             System.out.println("Linha: " + linha);
             System.out.println("Direcao : " + direcao);
             System.out.println("Periodo : " + periodo);
-//            sql = "SELECT * FROM horarios " +
-//                    "WHERE linha='" +linha +"'" +
-//                    " AND direcao='" + direcao + "'" +
-//                    " AND periodo='" + periodo + "';";
+            sql = "SELECT * FROM horarios " +
+                    "WHERE linha='" +linha +"'" +
+                    " AND direcao='" + direcao + "'" +
+                    " AND periodo='" + periodo + "'" +
+                    " ORDER BY hora ;";
+
 //            sql = "SELECT * FROM horarios " +
 //                    "WHERE linha='" +linha +"';";
 
-            sql = "SELECT * FROM horarios " +
-            "WHERE linha='" +linha +"'" +
-            " AND direcao='" + direcao + "';";
+//            sql = "SELECT * FROM horarios " +
+//            "WHERE linha='" +linha +"'" +
+//            " AND direcao='" + direcao + "';";
 
         }
             buscaHorarios(sql);

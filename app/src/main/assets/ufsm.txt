@@ -1,475 +1,478 @@
-00:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:00;CAMOBI VIA UFSM;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:30;Faixa nova;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:38;DIRETO;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:45;Faixa nova;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:47;Tambo;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:55;Faixa nova;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:04;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:12;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:16;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:24;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:28;DIRETO;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:31;Tambo;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:36;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis
-07:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:44;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:48;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:52;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:56;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:02;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:16;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:24;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:50;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:05;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:38;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:46;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:54;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:07;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:14;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:20;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:26;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:32;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:38;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:44;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:55;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:04;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:47;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:54;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:00;Tambo      ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:06;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:16;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:38;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:53;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:22;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:37;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:44;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:52;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:05;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:12;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:28;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:42;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:48;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:56;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:06;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:12;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:18;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:22;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:36;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:45;DIRETO     ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:54;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:55;DIRETO     ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:05;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:12;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:18;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:24;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:36;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:48;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:54;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:07;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:15;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:00;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:15;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:40;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:15;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:40;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-23:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-23:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-00:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-06:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:40;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-07:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:04;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:12;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:15;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-08:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:40;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-09:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-10:50;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:07;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:14;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:21;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:28;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-11:42;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:05;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:35;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:48;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-12:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:18;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:26;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:42;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-13:58;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:05;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:14;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:22;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:38;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:46;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-14:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:16;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:28;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:32;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:45;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:48;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-15:56;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:06;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:15;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:28;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:32;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:44;DIRETO     ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:52;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-16:56;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:10;DIRETO     ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:16;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:36;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:44;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-17:52;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:08;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:20;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:35;DIRETO     ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:48;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-18:58;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-19:50;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:10;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:30;VALE MACHADO VIA BOMBEIROS FX NOVA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-20:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:00;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:20;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:30;VALE MACHADO VIA BOMBEIROS FX NOVA;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-21:50;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:00;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:10;VALE MACHADO VIA BOMBEIROS FX NOVA  ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:20;VALE MACHADO VIA BOMBEIROS FX VELHA ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:30;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-22:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-23:05;VALE MACHADO VIA BOMBEIROS FX VELHA ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-23:15;Faixa velha ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-23:35;Faixa velha ;Bairro-Centro;CAMPUS UFSM; Dias Uteis
-00:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-06:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-06:14;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-06:28;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-06:42;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-06:56;Tambo;Centro-Bairro;CAMPUS UFSM;Sábados
-07:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados
-07:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-07:38;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-07:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-08:06;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-08:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-08:34;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-08:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-09:02;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-09:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-09:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-09:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-09:58;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-10:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-10:26;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-10:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-10:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-11:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-11:22;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-11:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-11:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-12:04;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados
-12:18;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-12:32;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-12:46;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-13:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-13:14;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-13:28;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-13:42;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-13:56;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-14:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-14:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-14:38;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-14:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-15:06;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-15:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-15:34;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-15:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-16:02;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-16:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-16:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-16:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-16:58;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-17:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-17:26;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados
-17:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-17:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-18:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-18:22;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-18:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-18:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-19:04;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-19:18;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-19:32;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-19:46;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-20:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-21:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-23:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados
-00:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-06:49;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-07:03;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-07:17;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-07:31;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-07:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-07:59;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados
-08:13;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-08:27;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-08:41;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-08:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-09:09;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-09:23;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-09:37;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-09:51;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-10:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-10:19;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-10:33;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-10:47;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-11:01;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-11:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-11:29;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-11:43;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-11:57;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados
-12:11;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-12:39;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-12:53;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-13:07;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-13:21;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-13:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-13:49;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-14:03;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-14:17;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-14:31;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-14:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-14:59;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-15:13;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-15:27;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-15:41;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-15:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-16:09;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-16:23;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-16:37;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-16:51;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-17:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-17:19;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados
-17:33;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-17:47;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-18:01;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-18:29;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-18:43;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-18:57;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-19:11;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-19:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-19:39;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-19:53;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-20:07;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-20:21;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-21:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-22:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-23:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados
-00:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-06:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-06:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-06:45;Faixa nova ;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-07:05;Faixa nova ;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-07:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-07:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-08:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-08:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-08:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-09:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-09:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-09:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-10:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-10:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-10:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-11:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-11:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-11:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-12:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-12:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-12:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-13:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-13:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-13:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-14:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-14:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-14:45;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-15:05;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-15:30;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-15:50;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-16:10;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-16:40;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-17:00;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-17:20;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-17:40;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-18:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-18:30;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-18:50;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-19:20;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-19:40;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-20:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-21:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-22:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-23:25;Faixa velha;Centro-Bairro;CAMPUS UFSM; Domingos e Feriados
-00:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-06:55;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-07:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-07:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-07:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-08:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-08:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-08:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-09:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-09:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-09:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-10:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-10:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-10:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-11:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-11:40;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-11:55;Faixa nova ;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-12:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-13:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-13:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-13:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-14:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-14:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-14:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-15:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-15:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-16:05;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-16:25;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-16:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-17:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-17:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-17:45;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-17:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-18:30;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-18:45;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-19:05;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-19:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-19:35;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-19:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-20:10;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-20:25;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-20:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-21:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-22:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
-23:55;Faixa velha;Bairro-Centro;CAMPUS UFSM; Domingos e Feriados
+00:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:00;CAMOBI VIA UFSM;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:30;Faixa nova;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:38;DIRETO;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:45;Faixa nova;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:47;Tambo;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+06:55;Faixa nova;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:04;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:12;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:24;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:28;DIRETO;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:31;Tambo;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:44;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:48;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+07:56;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:02;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:16;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:30;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+08:50;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+09:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+09:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+09:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+09:30;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+09:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+09:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:05;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:38;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:46;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+10:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:07;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:14;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:20;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:26;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:32;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:38;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+11:55;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:04;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:15;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:30;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:35;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:47;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+12:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:00;Tambo      ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:06;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:38;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+13:53;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:15;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:22;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:37;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+14:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+15:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:00;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:05;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:28;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:35;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:42;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+16:56;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:06;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:18;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:22;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:45;DIRETO     ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:54;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+17:55;DIRETO     ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:18;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+18:54;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+19:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+19:07;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+19:15;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+19:30;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+19:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+20:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+20:15;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+20:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+20:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis ;
+21:00;VALE MACHADO VIA BOMBEIROS FX VELHA;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+21:15;VALE MACHADO VIA BOMBEIROS FX VELHA;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+21:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+21:40;VALE MACHADO VIA BOMBEIROS FX VELHA;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+21:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+22:00;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+22:15;VALE MACHADO VIA BOMBEIROS FX VELHA;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+22:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+22:40;VALE MACHADO VIA BOMBEIROS FX VELHA;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+23:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+23:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Dias Uteis;
+
+00:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+06:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:40;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+07:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:04;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:12;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:15;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+08:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:40;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+09:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+10:50;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:07;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:14;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:21;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:28;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+11:42;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:05;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:35;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:48;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+12:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:18;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:26;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:42;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+13:58;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:10;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:14;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:22;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:30;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:38;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:46;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+14:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:16;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:28;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:32;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:45;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:48;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+15:56;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:06;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:15;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:28;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:32;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:44;DIRETO     ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:52;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+16:56;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:10;DIRETO     ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:16;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:36;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:44;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+17:52;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:00;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:08;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:20;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:35;DIRETO     ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:48;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+18:58;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+19:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+19:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+19:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+19:50;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+20:10;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+20:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+20:30;VALE MACHADO VIA BOMBEIROS FX NOVA;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+20:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+21:00;VALE MACHADO VIA BOMBEIROS FX VELHA;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+21:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+21:20;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+21:30;VALE MACHADO VIA BOMBEIROS FX NOVA;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+21:50;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+22:00;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+22:10;VALE MACHADO VIA BOMBEIROS FX NOVA  ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+22:20;VALE MACHADO VIA BOMBEIROS FX VELHA ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+22:30;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+22:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+23:05;VALE MACHADO VIA BOMBEIROS FX VELHA ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+23:15;Faixa velha ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+23:35;Faixa velha ;Bairro-Centro;CAMPUS UFSM;Dias Uteis;
+
+00:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+06:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+06:14;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+06:28;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+06:42;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+06:56;Tambo;Centro-Bairro;CAMPUS UFSM;Sábados;
+07:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados;
+07:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+07:38;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+07:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+08:06;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+08:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+08:34;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+08:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+09:02;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+09:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+09:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+09:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+09:58;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+10:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+10:26;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+10:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+10:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+11:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+11:22;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+11:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+11:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+12:04;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados;
+12:18;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+12:32;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+12:46;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+13:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+13:14;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+13:28;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+13:42;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+13:56;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+14:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+14:24;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+14:38;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+14:52;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+15:06;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+15:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+15:34;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+15:48;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+16:02;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+16:16;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+16:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+16:44;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+16:58;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+17:12;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+17:26;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Sábados;
+17:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+17:54;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+18:08;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+18:22;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+18:36;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+18:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+19:04;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+19:18;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+19:32;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+19:46;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+20:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+21:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+23:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Sábados;
+00:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+06:49;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+07:03;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+07:17;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+07:31;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+07:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+07:59;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados;
+08:13;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+08:27;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+08:41;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+08:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+09:09;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+09:23;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+09:37;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+09:51;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+10:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+10:19;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+10:33;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+10:47;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+11:01;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+11:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+11:29;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+11:43;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+11:57;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados;
+12:11;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+12:39;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+12:53;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+13:07;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+13:21;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+13:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+13:49;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+14:03;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+14:17;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+14:31;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+14:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+14:59;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+15:13;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+15:27;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+15:41;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+15:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+16:09;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+16:23;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+16:37;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+16:51;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+17:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+17:19;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Sábados;
+17:33;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+17:47;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+18:01;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+18:29;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+18:43;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+18:57;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+19:11;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+19:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+19:39;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+19:53;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+20:07;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+20:21;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+21:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+22:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+23:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Sábados;
+
+00:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+06:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+06:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+06:45;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+07:05;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+07:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+07:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+08:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+08:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+08:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+09:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+09:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+09:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+10:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+10:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+10:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+11:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+11:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+11:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+12:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+12:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+12:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+13:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+13:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+13:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+14:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+14:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+14:45;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+15:05;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+15:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+15:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+16:10;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+16:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+17:00;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+17:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+17:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+18:10;Faixa nova ;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+18:30;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+18:50;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+19:20;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+19:40;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+20:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+21:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+22:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+23:25;Faixa velha;Centro-Bairro;CAMPUS UFSM;Domingos e Feriados;
+00:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+06:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+06:55;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+07:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+07:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+07:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+08:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+08:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+08:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+09:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+09:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+09:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+10:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+10:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+10:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+11:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+11:40;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+11:55;Faixa nova ;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+12:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+12:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+13:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+13:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+13:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+14:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+14:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+14:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+15:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+15:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+16:05;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+16:25;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+16:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+17:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+17:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+17:45;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+17:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+18:15;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+18:30;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+18:45;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+19:05;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+19:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+19:35;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+19:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+20:10;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+20:25;CFF RODOVIÁRIA FAIXA NOVA;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+20:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+21:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+22:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
+23:55;Faixa velha;Bairro-Centro;CAMPUS UFSM;Domingos e Feriados;
