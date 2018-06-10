@@ -71,8 +71,10 @@ public class Principal extends AppCompatActivity {
         exist = checkFileInstall();
         if (!exist) {
             createDB();
-        } else {
             System.out.println("Banco não existe!\nCriando o banco.");
+            saveFileInstall();
+        } else {
+            System.out.println("Banco já existe!");
         }
 
     }
@@ -175,8 +177,8 @@ public class Principal extends AppCompatActivity {
         db = openOrCreateDatabase(BANCO, Context.MODE_PRIVATE, null);
         db.insert("horarios", null, valores);
         db.close();
-//        Toast.makeText(getApplicationContext(), "Dados inseridos",
-//                Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Dados inseridos",
+                Toast.LENGTH_SHORT).show();
     }
 
     public List<Linha> readFilePopulateBd(String nomeArquivo) {
