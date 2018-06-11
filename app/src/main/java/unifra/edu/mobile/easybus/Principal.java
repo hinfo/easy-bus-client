@@ -147,7 +147,6 @@ public class Principal extends AppCompatActivity {
     }
 
     public double checkVersion(String url) throws MalformedURLException {
-//        String url = "https://easy-bus.herokuapp.com/";
         new Acessa().execute(url);
         double version = 1.0;
 

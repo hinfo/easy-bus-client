@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="@color/bcgColor2Dark"
-        android:text="Projeto Easy Bus"
+        android:text="@string/app_name"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="25sp" />
@@ -29,21 +29,21 @@
             android:layout_height="wrap_content"
             android:background="@color/bcgColor2Primary"
             android:onClick="showFavoritos"
-            android:text="Favoritos" />
+            android:text="@string/favorites" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/bcgColor2Primary"
             android:onClick="showItinerarios"
-            android:text="Itinerários" />
+            android:text="@string/direction" />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/bcgColor2Primary"
             android:onClick="showEmpresas"
-            android:text="Empresas" />
+            android:text="@string/empresas" />
         </TableRow>
 
 
@@ -52,7 +52,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Selecione a Linha"
+        android:text="@string/select_linha"
         android:background="@color/bcgColor2Primary"
         android:textColor="#0d3b01"
         android:textSize="20sp" />
@@ -86,7 +86,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Escolha o período"
+        android:text="@string/select_periodo"
         android:background="@color/bcgColor3Primary"
         android:textColor="#030f51"
         android:textSize="20sp" />
@@ -110,7 +110,7 @@
             android:id="@+id/button"
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:text="Sair"
+            android:text="@string/btn_exit"
             android:background="@color/bcgColor3Primary"
             android:textColor="@color/fontColor"
             android:onClick="clickSair"
@@ -119,7 +119,7 @@
         <Button
             android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:text="OK"
+            android:text="@string/btn_ok"
             android:textColor="@color/fontColor"
             android:background="@color/bcgColor"
             android:layout_weight="0.5"
